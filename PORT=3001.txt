@@ -1,0 +1,12 @@
+PORT=3001
+STATIC_DIR=public
+
+DB_HOST=localhost
+DB_USER=dbuser
+DB_PASS=dbpass
+DB_NAME=contactdb
+
+GMAIL_USER=yourbusiness@gmail.com
+GMAIL_APP_PASSWORD=your_16_char_app_password
+RELAY_DOMAIN=yourdomain.com
+ADMIN_TOKEN=replace_with_a_long_random_string
